@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "618563841336",
+    "project_id": "ispsc-e-clinic-5e2d4",
+    "storage_bucket": "ispsc-e-clinic-5e2d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618563841336:android:ecf9ffff7398bed6c4a5cd",
+        "android_client_info": {
+          "package_name": "com.example.ispsc_eclinic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618563841336-lt7ibsnslocs8am395r790n49p66bbcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8HbNyKOM-zmLm6Ba44WioOJVFUgwRro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618563841336-lt7ibsnslocs8am395r790n49p66bbcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618563841336-nc3arei86nc0gklkrh75lnc0fopaiukv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ispscEclinicApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618563841336:android:a01c9ff0573e059ec4a5cd",
+        "android_client_info": {
+          "package_name": "com.ispsc.eclinic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618563841336-g1qqei6eqm3m854d10k0dasgamiumknj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ispsc.eclinic_app",
+            "certificate_hash": "0d0edc0181651d8322d4f589f732b6fc1f344809"
+          }
+        },
+        {
+          "client_id": "618563841336-lt7ibsnslocs8am395r790n49p66bbcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8HbNyKOM-zmLm6Ba44WioOJVFUgwRro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618563841336-lt7ibsnslocs8am395r790n49p66bbcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618563841336-nc3arei86nc0gklkrh75lnc0fopaiukv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ispscEclinicApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

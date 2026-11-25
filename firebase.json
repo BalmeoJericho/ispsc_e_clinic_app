@@ -1,0 +1,53 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "ispsc-e-clinic-5e2d4",
+          "appId": "1:618563841336:android:a01c9ff0573e059ec4a5cd",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "ispsc-e-clinic-5e2d4",
+          "configurations": {
+            "android": "1:618563841336:android:ecf9ffff7398bed6c4a5cd",
+            "ios": "1:618563841336:ios:7630b1f7a2ea8e14c4a5cd",
+            "macos": "1:618563841336:ios:7630b1f7a2ea8e14c4a5cd",
+            "web": "1:618563841336:web:3dd51320aeb0d132c4a5cd",
+            "windows": "1:618563841336:web:51b354c3c2034c10c4a5cd"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
